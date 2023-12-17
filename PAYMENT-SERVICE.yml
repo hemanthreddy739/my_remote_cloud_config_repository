@@ -1,2 +1,2 @@
-message:
+messages:
   greeting:"this message is so specific to payment-microservice and comes from the remote github repository"
